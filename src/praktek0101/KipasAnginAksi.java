@@ -10,5 +10,12 @@ package praktek0101;
  * @author GMR
  */
 public class KipasAnginAksi {
-    
+    public static void main(String[] args) {
+        
+    KipasAngin A = new KipasAngin();
+    KipasAngin B = new KipasAngin();
+    KipasAngin C = new KipasAngin();
+
+    }
+  
 }
