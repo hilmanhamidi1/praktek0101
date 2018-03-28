@@ -16,6 +16,29 @@ public class KipasAnginAksi {
     KipasAngin B = new KipasAngin();
     KipasAngin C = new KipasAngin();
 
+    A.Ukuran    ="Besar";
+    A.Kecepatan ="Cepat";
+    A.Harga     ="1.000.000";
+    A.Warna     ="Hitam";
+    A.Merk      ="Maspion";
+
+    B.Ukuran    ="Sedang";
+    B.Kecepatan ="Sedang";
+    B.Harga     ="500.000";
+    B.Warna     ="Putih";
+    B.Merk      ="GMC";
+    
+    C.Ukuran    ="Kecil";
+    C.Kecepatan ="Lambat";
+    C.Harga     ="150.000";
+    C.Warna     ="Kuning";
+    C.Merk      ="Miyako";
+    
+    A.tampildata();
+    B.tampildata();
+    C.tampildata();
+    }
+
     }
   
 }
